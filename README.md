@@ -1,3 +1,3 @@
 # hello-world
-following the guidwe
+following the guide
 a bit about yourself
