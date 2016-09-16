@@ -1,2 +1,3 @@
 # hello-world
-following the guidw
+following the guidwe
+a bit about yourself
